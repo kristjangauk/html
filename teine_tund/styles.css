@@ -1,0 +1,47 @@
+.logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+header {
+    background: wheat;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+}
+
+header > div {
+    display: inline-block;
+
+}
+
+.margin-right {
+    margin-right: 10px;
+}
+
+.no-margin-padding {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.centered {
+    text-align: center;
+}
+
+.margin-top {
+    margin-top: 10px;
+}
+
+.margin-left {
+    margin-left: 10px;
+}
+
+nav > a {
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    background: salmon;
+    color: mediumpurple;
+    border-radius: 5px;
+}
