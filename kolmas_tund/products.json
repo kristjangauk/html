@@ -1,0 +1,23 @@
+[
+    {
+        "name": "rice",
+        "price": 20.45,
+        "description": "Special rice",
+        "quantity": 45,
+        "avabile": true
+    },
+    {
+        "name": "bice",
+        "price": 11.45,
+        "description": "Special bice",
+        "quantity": 3,
+        "avabile": false
+    },
+    {
+        "name": "mice",
+        "price": 4.00,
+        "description": "Special Mice",
+        "quantity": 5,
+        "avabile": true
+    }
+]
